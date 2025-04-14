@@ -1,0 +1,10 @@
+[
+    {
+        "question": "What is the overall cancellation rate?",
+        "expected_answer": "Around 37%"
+    },
+    {
+        "question": "Which hotel type has more bookings?",
+        "expected_answer": "City Hotel"
+    }
+]
